@@ -1,5 +1,12 @@
 .floor{
    width: 100%;
    height: 200px;
-   border: 6px solid grey; 
+   border: 3px solid grey; 
 }
+input{
+   display: block;
+}
+button{
+   display: block;
+}
+
