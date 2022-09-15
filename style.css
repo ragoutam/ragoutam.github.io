@@ -24,6 +24,7 @@ input{
     width: 150px;
     height: 25px;
     background-color: grey;
+    cursor: pointer;
 }
 
 .liftDiv{
