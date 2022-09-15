@@ -36,3 +36,5 @@ function upDownBtnPlacer(index) {
     <button class="btn">down</button>`;
   }
 }
+
+console.log('hello9 world')
