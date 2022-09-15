@@ -6,6 +6,7 @@ btn.addEventListener("click", () => {
   buildFloors(Number(floors.value));
 });
 
+
 function buildFloors(floorNum) {
   for (i = 1; i <= floorNum; i++) {
     mainDiv.insertAdjacentHTML(
